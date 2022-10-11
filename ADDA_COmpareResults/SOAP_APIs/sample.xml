@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
-  <soap:Body>
-    <request2 xmlns="http://VMBANJNJVPROOF1.eur.ad.sag/APIGatewayTestingSample.soapServices.request2:new_wsd">
-      <inRequest>fdfererWEretr</inRequest>
-    </request2>
-  </soap:Body>
-</soap:Envelope>
